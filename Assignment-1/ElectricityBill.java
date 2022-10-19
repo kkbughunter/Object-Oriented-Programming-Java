@@ -17,7 +17,7 @@ follows:
 • 501 units - Rs. 7 per unit*/
 import java.util.Scanner;
 
-class ElectricityBill {
+class Electricity {
 	// Consumer no., consumer name, previous month reading, current month reading
 	private int cansumerno,premouread,cormouread;
 	private String cansumername;
@@ -63,9 +63,14 @@ class ElectricityBill {
 			System.out.print("\tYour EB Amount is : " + premouread*7);
 		else System.out.print("check your reading again....");
 	}
+
+}
+
+
+class ElectricityBill{
 	public static void main(String[] argc){
 		Scanner sc = new Scanner(System.in);
-		ElectricityBill EB = new ElectricityBill();
+		Electricity EB = new Electricity();
 		int opt=0;
 		System.out.print("....Electricity Bill calculate....");
 		EB.getdata();
@@ -87,95 +92,3 @@ class ElectricityBill {
 		}
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
