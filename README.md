@@ -19,5 +19,7 @@ java <filename>
 #### Compile and Run java code
 ```
 javac <filename>.java && java<filename>
+or
+java <filename>
 ```
 # Thank you...
