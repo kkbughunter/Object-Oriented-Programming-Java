@@ -69,7 +69,20 @@ class Faculty extends Person{
 }
 
 
+class Student extends Person{
+	
+	private String program;
+	int year, sub1_credit,sub2_credit,sub3_credit;
+	char sub1_grade, sub2_grade, sub3_grade;
+	Student(int aa,String n,String a,char g,String p,int y,char s1g,char s2g,char s3g,int s1c,int s2c,int s3c){
+		super(aa, n, a, g);
+		year=y, sub1_credit=s1c,sub2_credit=s2c,sub3_credit=s3c;
+		sub1_grade=s1g, sub2_grade=s2g, sub3_grade=s3g;
+	}
 
+	//+getProgram():String+getYear():int+setYear(year):void+getsub1-grade():char+getsub2-grade():char+getsub3-grade():char+getsub1-credit():int+getsub2-credit():int+getsub3-credit():int+setsub1-grade(char):void+setsub2-grade(char):void+setsub3-grade(char):void+setsub1-credit(int):void+setsub2-credit(int):void+setsub3-credit(int):void
+
+} 
 
 
 
