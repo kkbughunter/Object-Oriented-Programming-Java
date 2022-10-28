@@ -80,7 +80,50 @@ class Student extends Person{
 		sub1_grade=s1g, sub2_grade=s2g, sub3_grade=s3g;
 	}
 
-	//+getProgram():String+getYear():int+setYear(year):void+getsub1-grade():char+getsub2-grade():char+getsub3-grade():char+getsub1-credit():int+getsub2-credit():int+getsub3-credit():int+setsub1-grade(char):void+setsub2-grade(char):void+setsub3-grade(char):void+setsub1-credit(int):void+setsub2-credit(int):void+setsub3-credit(int):void
+	public String getProgram(){
+		String n = sc.nextLine();
+		return n;
+	}
+	public int getYear(){
+		int n = sc.nextInt();
+		return n;
+	}
+//--------------
+	public int getsub1_credit(){
+		int n = sc.nextInt();
+		return n;
+	}
+	public int getsub2_credit(){
+		int n = sc.nextInt();
+		return n;
+	}
+	public int getsub3_credit(){
+		int n = sc.nextInt();
+		return n;
+	}
+	
+//--------------
+	public char getsub1_grade(){
+		char n = sc.next().charAt(0);
+		return n;
+	}
+	public char getsub2_grade(){
+		char n = sc.next().charAt(0);
+		return n;
+	}
+	public char getsub3_grade(){
+		char n = sc.next().charAt(0);
+		return n;
+	}
+//--------------------------------------------------------------
+
+	public void setsun1_grade(String addr){
+		address = addr;
+		System.out.println("\t\tAddress added Successfuly");
+	}
+
+
+
 
 } 
 
