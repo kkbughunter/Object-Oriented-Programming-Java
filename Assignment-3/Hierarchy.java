@@ -76,8 +76,13 @@ class Student extends Person{
 	char sub1_grade, sub2_grade, sub3_grade;
 	Student(int aa,String n,String a,char g,String p,int y,char s1g,char s2g,char s3g,int s1c,int s2c,int s3c){
 		super(aa, n, a, g);
-		year=y, sub1_credit=s1c,sub2_credit=s2c,sub3_credit=s3c;
-		sub1_grade=s1g, sub2_grade=s2g, sub3_grade=s3g;
+		year=y;
+ 		sub1_credit=s1c ;
+		sub2_credit=s2c;
+		sub3_credit=s3c;
+		sub1_grade=s1g;
+ 		sub2_grade=s2g;
+ 		sub3_grade=s3g;
 	}
 
 	public String getProgram(){
@@ -117,11 +122,7 @@ class Student extends Person{
 	}
 //--------------------------------------------------------------
 
-	public void setsun1_grade(String addr){
-		address = addr;
-		System.out.println("\t\tAddress added Successfuly");
-	}
-
+	
 
 
 
@@ -133,8 +134,7 @@ class Student extends Person{
 
 class Hierarchy{
 	public static void main(String[] argc){
-	 	String name,address;
-		char gender;
+	 	
 		Person p = new Person(1,"2","3",'4');
 
 		p.setAddress(p.getAddress());
@@ -142,60 +142,3 @@ class Hierarchy{
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
