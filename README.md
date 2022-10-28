@@ -4,8 +4,8 @@
 ## Lab Work...
 ### ASSIGNMENT
 1.  [Basic](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Basic)Basic Java Programs <br>
-2.  [A1](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-1) Classes and Object<br>
-3.  [A2](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-2)Java Programs- Arrays and Strings
+2.  [A1](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-1) Classes and Object 1<br> 
+3.  [A2](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-2) Java Programs- Arrays and Strings 1
 ## Execute and Run Java Code from the Terminal
 #### Compile Java code
 ```    
