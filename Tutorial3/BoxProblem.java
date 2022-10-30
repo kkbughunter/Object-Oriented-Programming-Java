@@ -32,11 +32,11 @@ class BoxWeight extends Box{
 
 }
 
-class BoxShipment extends Box{
+class BoxShipment extends BoxWeight{
 	protected double shipmentcost;
 
 	BoxShipment(String name, double l, double w, double h, double s){
-		super(name,l,w,h);
+		super(name,l,w,h,s);
 		shipmentcost = s;
 	}
 }
