@@ -14,6 +14,9 @@
 4.  [A3](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-3) Programs using inheritance <br>
 5.  [A4](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-4) Programs using abstract class and interface 1<br>
 
+## GUI Application (using Swing) 😍
+[Simple Calculator](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/blob/main/Swing%20java%20GUI%20Application/SimpleCalculator.java)<br>
+
 ## Project :mortar_board: 
 
 ## Execute and Run Java Code from the Terminal
