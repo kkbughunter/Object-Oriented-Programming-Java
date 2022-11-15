@@ -7,11 +7,11 @@ import java.awt.*;
 import java.awt.event.*;
 
 
-class Calculater extends JFrame{
+class Calculator extends JFrame{
     JLabel l1,l2;
     JTextField t1,t2;
     JButton b1,b2,b3,b4;
-    Calculater(){
+    Calculator(){
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLayout(null);
         l1 = new JLabel("Simple Calculater"); 
@@ -85,7 +85,7 @@ class Calculater extends JFrame{
     }
 }
 
-class SimpleCalculater {
+class SimpleCalculator {
     public static void main(String[] args) {
         Calculater c = new Calculater();
         c.setBounds(400,200,600,300);
