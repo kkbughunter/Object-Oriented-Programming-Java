@@ -7,7 +7,7 @@ class Maximum{
 
 }
 
-public class Myclass{
+public class MyMax{
 	public static void main(String[] args){
 		Maximum max = new Maximum();
 		System.out.println(max.findMax(2342,234));
