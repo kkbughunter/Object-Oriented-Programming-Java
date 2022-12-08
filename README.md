@@ -13,10 +13,10 @@
 3.  [A2](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-2) Java Programs- Arrays and Strings <br>
 4.  [A3](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-3) Programs using inheritance <br>
 5.  [A4](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-4) Programs using abstract class and interface <br>
-6.  [A5](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-5) Programs using Package <br>
-7.  [A6](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-6) Programs using generic<br>
-8.  [A7](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-7) Programs using collection framework<br>
-
+6.  [A5](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-5) Programs using Exception Handling <br>
+7.  [A6](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-6) Programs using Package <br>
+8.  [A7](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-7) Programs using generic <br>
+9.  [A8](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-8) collection framework <br>
 
 
 ## GUI Application (using Swing) 😍
