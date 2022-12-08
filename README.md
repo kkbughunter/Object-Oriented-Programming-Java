@@ -12,10 +12,10 @@
 2.  [A1](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-1) Classes and Object 1<br> 
 3.  [A2](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-2) Java Programs- Arrays and Strings <br>
 4.  [A3](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-3) Programs using inheritance <br>
-5.  [A3](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-4) Programs using abstract class and interface 1 <br>
-6.  [A4](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-5) Programs using exception handling <br>
-7.  [A5](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-6) Programs using abstract class and interface 1<br>
-8.  [A6](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-7) Programs using abstract class and interface 1<br>
+5.  [A4](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-4) Programs using abstract class and interface <br>
+6.  [A5](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-5) Programs using Package <br>
+7.  [A6](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-6) Programs using generic<br>
+8.  [A7](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-7) Programs using collection framework<br>
 
 
 
