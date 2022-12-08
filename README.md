@@ -4,7 +4,6 @@
 ## Class Work... :tophat:
 1. [Tutorial 2](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Tutorial2)<br>
 2. [Tutorial 3](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Tutorial3) <br>
-:warning:
 
 ## Lab Work...  :lab_coat:
 ### ASSIGNMENT 
