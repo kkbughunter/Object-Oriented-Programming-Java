@@ -1,4 +1,0 @@
-login / 1.3.22 / 20000 / success/
-register / 5.9.22 / 20000 / success/
-login / 1.3.22 / 20000 / success/
-register / 5.9.22 / 20000 / success/
