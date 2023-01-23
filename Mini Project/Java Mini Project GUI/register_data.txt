@@ -1,3 +1,0 @@
-ss|null
-s|s
-ssn|ssn
