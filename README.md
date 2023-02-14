@@ -5,6 +5,9 @@
 1. [Tutorial 2](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Tutorial2)<br>
 2. [Tutorial 3](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Tutorial3) <br>
 3. [Tutorial 4](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Tutorial4%20Exception%20handling%20and%20generics)<br>
+4. MCQ in Interface and Generic
+5. Assignment - 1 (Design a Class Digram)
+6. [Assignment - 2](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/blob/main/Assignment-2/test.java)
 
 ## Lab Work...  :lab_coat:
 ### ASSIGNMENT 
