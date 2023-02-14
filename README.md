@@ -1,16 +1,6 @@
 # Object Oriented Programming Using Java. 
 
-
-## Class Work... :tophat:
-1. [Tutorial 2](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Tutorial2)<br>
-2. [Tutorial 3](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Tutorial3) <br>
-3. [Tutorial 4](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Tutorial4%20Exception%20handling%20and%20generics)<br>
-4. MCQ in Interface and Generic
-5. Assignment - 1 (Design a Class Digram)
-6. [Assignment - 2](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/blob/main/Assignment-2/test.java)
-
-## Lab Work...  :lab_coat:
-### ASSIGNMENT 
+## ASSIGNMENT Work...  :lab_coat:
 1.  [Basic](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Basic) Basic Java Programs <br>
 2.  [A1](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-1) Classes and Object 1<br> 
 3.  [A2](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-2) Java Programs- Arrays and Strings <br>
@@ -20,6 +10,14 @@
 7.  [A6](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-6) Programs using Package <br>
 8.  [A7](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-7) Programs using generic <br>
 9.  [A8](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Assignment-8) collection framework <br>
+
+## Class Test:tophat:
+1. [Tutorial 2](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Tutorial2)<br>
+2. [Tutorial 3](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Tutorial3) <br>
+3. [Tutorial 4](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/tree/main/Tutorial4%20Exception%20handling%20and%20generics)<br>
+4. MCQ in Interface and Generic
+5. Assignment - 1 (Design a Class Digram)
+6. [Assignment - 2](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/blob/main/Assignment-2/test.java)
 
 
 ## GUI Application (using Swing) 😍
