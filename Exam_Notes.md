@@ -97,6 +97,38 @@ class test{
 }
 ```
 
+# Algorithm in collections
+``` java:
+
+import java.util.*;
+
+class test{
+	public static void main(String []argc){
+		ArrayList<Integer> lis = new ArrayList<Integer>();
+		lis.add(86);
+		lis.add(54);
+		lis.add(29);
+		lis.add(66);
+		lis.add(73);
+		lis.add(16);
+		lis.add(1);
+		System.out.println("Array Data : " + lis);
+		Collections.sort(lis);
+		System.out.println("After Sort Algo: " + lis);
+		Collections.shuffle(lis);
+		System.out.println("After Shuffle Algo: " + lis);
+		Collections.reverse(lis);
+		System.out.println("After Reverse Algo: " + lis);
+		Collections.swap(lis,0,1);
+		System.out.println("After Swap Algo: " + lis);
+		Collections.rotate(lis,2);
+		System.out.println("After Rotate Algo: " + lis);
+		Collections.frequency(lis,5);
+		System.out.println("After frequency Algo : " + lis);
+
+	}
+}
+```
 
 
 
