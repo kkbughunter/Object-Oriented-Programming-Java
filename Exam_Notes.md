@@ -59,6 +59,39 @@ class test {
 }
 ```
 
+# Generic Interface
+``` java:
+import java.util.*;
+import java.util.*;
+
+interface Person<T>{ 
+	
+    public void add(T point);
+    public T display();
+
+}
+class work<T> implements Person<T>{
+	private T data;
+	public void add(T point){
+		data = point;
+	}
+    public T display(){
+    	return data;
+    }
+}
+class test {
+    public static void main(String[] args) {
+        work<Integer> w1 = new work<Integer>();
+        w1.add(19);
+        System.out.print(w1.display());
+        System.out.print("\n");
+        work<Integer> w2 = new work<Integer>();
+        w2.add(4589);
+        System.out.print(w2.display());
+        
+    }
+}
+```
 # Unit 5
 # ListIterator VS Iterator 
 ``` java:
