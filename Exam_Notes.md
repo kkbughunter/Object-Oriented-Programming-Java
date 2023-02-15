@@ -1,5 +1,5 @@
 
-# Generic Method non return tyoe
+# Generic Method non return type
 ``` java:
 import java.util.*;
 class Person{
