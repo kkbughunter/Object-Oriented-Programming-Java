@@ -163,6 +163,49 @@ class test{
 }
 ```
 
+# CompareTo Override for compare the elements
+```Java:
+import java.util.*;
+class Person implements Comparable<Person> {
+    private String name;
+    private int age;
+    
+    public Person(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+    
+    public int getAge() {
+        return age;
+    }
+    public String getName() {
+        return name;
+    }
+    
+    @Override
+    public int compareTo(Person other) {
+        // Compare persons based on age
+        return this.age < other.getAge() ? -1 : this.age == other.getAge() ? 0 : 1;
+    }
+}
+
+class test{
+    public static void main(String[] args) {
+        List<Person> people = new ArrayList<>();
+        people.add(new Person("Alice", 25));
+        people.add(new Person("Bob", 30));
+        people.add(new Person("Charlie", 20));
+        
+        // Sort people based on age
+        Collections.sort(people);
+        
+        // Print out the sorted list
+        for (Person person : people) {
+            System.out.println(person.getName() + " is " + person.getAge() + " years old");
+        }
+    }
+}
+```
 
 
 
