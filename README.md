@@ -19,7 +19,7 @@
 5. Assignment - 1 (Design a Class Digram)
 6. [Assignment - 2](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/blob/main/Assignment-2/test.java)
 
-
+# [Exam Notes](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/blob/main/Exam_Notes.md)
 ## GUI Application (using Swing) 😍
 [Simple Calculator](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java/blob/main/Swing%20java%20GUI%20Application/SimpleCalculator.java)<br>
 
