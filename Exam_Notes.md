@@ -1,3 +1,26 @@
+# Important Topic for Exam
+- Principles of OOPs
+	- Object : instance of class.
+	- Class : collections of oblect and methods.
+	- Abstraction : repesenting essential **without the background cod**.
+	- Encapsulation : Wapping up data and methods.
+	- Polymorphism : Talking in more than one form. eg:Overloading
+	- Inheritance : derived class share common properties.
+	- Dinamic Binding : overriding....
+	- Message Passing : 
+	- Robust : Exception Handling.
+	- Secure : bytecode...
+- Benefits of OOPs
+- **==**
+	- is a Operator
+	- compare two Objects based on the memory reference.
+- .equales()
+	- is a method.
+	- compare the content of the object
+	- can be override.
+- 
+
+
 # Unit 2
 # find the O/p
 ``` java
