@@ -18,8 +18,17 @@
 	- is a method.
 	- compare the content of the object
 	- can be override.
-- 
-
+- Constructors
+	- Default constructors 
+	- parameterized constructors 
+	- no-arg constructors
+	- Multiple constructor
+- Method overloading
+- Static member
+- Static member function
+- Access specifiers
+	- Default, public, private, and protected
+- Finalize method
 
 # Unit 2
 # find the O/p
