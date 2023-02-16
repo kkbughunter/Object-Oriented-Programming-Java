@@ -29,6 +29,63 @@
 - Access specifiers
 	- Default, public, private, and protected
 - Finalize method
+- Super class
+- Sub class
+- Types of inheritance
+	- Single-level inheritance.
+    	- Multi-level Inheritance.
+    	- Hierarchical Inheritance.
+    	- Multiple Inheritance.
+    	- Hybrid Inheritance.
+- Method overriding
+- Static block
+- Instance initializer block
+- Constructor chaining
+- Final
+	- final variable
+	- final method
+	- final class
+- Abstract class
+- Inheritance class
+- Delegation
+- Inheritance Vs Delegation
+- Inner class
+	- Static inner class
+	- Local inner class
+	- Anonymous inner class
+- Errors
+- Errors handling
+- Exception
+	- Checked exception
+	- Unchecked exception
+	- Uncaught exception
+- Exception handling
+- Nested try
+- User defined exceptions
+- Packages
+	- Creating sub packages
+- Packages and name clashing
+- Handling name clashing
+- Parametric polymorphism
+- Why generic programming?
+- Generic methods
+- Generic class instead of generic method
+- Generic interface
+- Generics arrays
+- Bounded types
+	- Upper bound
+	- Lower bound
+	- Unbounded
+- Restrictions and limitations
+- reflection
+- Collections framework
+- Hierarchy of Collections interfaces
+
+
+
+
+
+
 
 # Unit 2
 # find the O/p
