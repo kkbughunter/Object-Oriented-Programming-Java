@@ -76,7 +76,63 @@ public class test  {
   } 
 }
 ```
+# Overloading
+```java:
+class Example {
+    public void print(int x) {
+        System.out.println("Printing integer: " + x);
+    }
+    
+    public void print(double x) {
+        System.out.println("Printing double: " + x);
+    }
+    
+    public void print(String x) {
+        System.out.println("Printing string: " + x);
+    }
+}
+public class test  { 
+   public static void main(String[] args) 
+   { 
+      Example example = new Example();
+      example.print(5); // Prints "Printing integer: 5"
+      example.print(3.14); // Prints "Printing double: 3.14"
+      example.print("Hello"); // Prints "Printing string: Hello"
 
+  } 
+}
+```
+
+# Overriding
+```java
+class Animal {
+    public void makeSound() {
+        System.out.println("The animal makes a sound");
+    }
+}
+
+class Dog extends Animal {
+    @Override
+    public void makeSound() {
+        System.out.println("The dog barks");
+    }
+}
+
+
+public class test  { 
+   public static void main(String[] args) 
+   { 
+      Animal animal = new Animal();
+      animal.makeSound(); // Prints "The animal makes a sound"
+
+      Dog dog = new Dog();
+      dog.makeSound(); // Prints "The dog barks"
+
+      
+
+  } 
+}
+```
 # Unit 4
 # Generic Method non return type
 ``` java:
