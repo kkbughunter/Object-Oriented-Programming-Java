@@ -80,8 +80,32 @@
 - reflection
 - Collections framework
 - Hierarchy of Collections interfaces
-
-
+- Ordered and UnOrdered
+- Exceptions in collection
+- Important methods in collection.
+	- ArrayList
+	- Linked List
+	- Priority Queue
+	- TreeSet
+	- Map
+- iterated (using for)
+- Iterator interface
+- ListIterator interface
+- Collection algorithms
+	- Sorting
+	- Shuffling
+	- Data Manipulation
+	- Searching
+	- Composition
+	- Finding Extreme Value
+- Algorithm - Data manipulation
+	- reverse
+	- fill
+	- copy
+	- swap
+	- addAll
+	- frequency
+	- disjoint
 
 
 
