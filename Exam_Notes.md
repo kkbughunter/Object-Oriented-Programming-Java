@@ -1,6 +1,6 @@
 # Unit 2
 # find the O/p
-``` java:
+``` java
 class c1{
 	public int amount=242;
 	public c1 (int a){
@@ -28,7 +28,7 @@ public class test{
 }
 ```
 # find the O/p
-``` java:
+``` java
 class c1{
 	public int amount=242;
 	public c1 (int a){
@@ -56,7 +56,7 @@ public class test{
 }
 ```
 # find the O/p
-``` java:
+``` java
 class P 
 { 
     int a = 30; 
@@ -77,7 +77,7 @@ public class test  {
 }
 ```
 # Overloading
-```java:
+```java
 class Example {
     public void print(int x) {
         System.out.println("Printing integer: " + x);
@@ -135,7 +135,7 @@ public class test  {
 ```
 # Unit 4
 # Generic Method non return type
-``` java:
+``` java
 import java.util.*;
 class Person{
     public <T> void updata(T name){
@@ -154,7 +154,7 @@ class test{
 ```
 
 # Generic Method return type 
-``` java:
+``` java
 import java.util.*;
 
 class Person {
@@ -175,7 +175,7 @@ class test {
 
 
 # Generic class instead of generic method
-``` java:
+``` java
 import java.util.*;
 
 class Person<T extends Number>{ // class itself type T
@@ -195,7 +195,7 @@ class test {
 ```
 
 # Generic Interface
-``` java:
+``` java
 import java.util.*;
 import java.util.*;
 
@@ -229,7 +229,7 @@ class test {
 ```
 # Unit 5
 # ListIterator VS Iterator 
-``` java:
+``` java
 
 import java.util.*;
 
@@ -266,7 +266,7 @@ class test{
 ```
 
 # Algorithm in collections
-``` java:
+``` java
 
 import java.util.*;
 
@@ -299,7 +299,7 @@ class test{
 ```
 
 # CompareTo Override for compare the elements
-```Java:
+```Java
 import java.util.*;
 class Person implements Comparable<Person> {
     private String name;
