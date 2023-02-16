@@ -1,3 +1,82 @@
+# Unit 2
+# find the O/p
+``` java:
+class c1{
+	public int amount=242;
+	public c1 (int a){
+		System.out.println("c1"+a);
+	}
+}
+
+class c2 extends c1{
+	public c2 (int a, int b){
+		super(a);
+		System.out.println("c2" + b);
+	}
+}
+
+class c3 extends c2{
+	public c3(int a,int b,int c){
+		super(a,b);
+		System.out.print("c3" + c);
+	}
+}
+public class test{
+	public static void main(String []argcs){
+		c3 b = new c3(1,2,3);
+	}
+}
+```
+# find the O/p
+``` java:
+class c1{
+	public int amount=242;
+	public c1 (int a){
+		System.out.println("c1"+a);
+	}
+}
+
+class c2 extends c1{
+	public c2 (int a, int b){
+		super(a);
+		System.out.println("c2" + b);
+	}
+}
+
+class c3 extends c2{
+	public c3(int a,int b,int c){
+		super(a,b);
+		System.out.print("c3" + c);
+	}
+}
+public class test{
+	public static void main(String []argcs){
+		c1 b = new c2(1,2);
+	}
+}
+```
+# find the O/p
+``` java:
+class P 
+{ 
+    int a = 30; 
+} 
+class Q extends P 
+{ 
+    int a = 50; 
+} 
+public class test  { 
+   public static void main(String[] args) 
+   { 
+      Q q = new Q();
+      System.out.println(" Value of a: " +q.a); 
+
+      P p = new Q();
+      System.out.println("Value of a: " +p.a); 
+  } 
+}
+```
+
 # Unit 4
 # Generic Method non return type
 ``` java:
