@@ -1,4 +1,5 @@
 # Important Topic for Exam
+
 - Principles of OOPs
 	- Object : instance of class.
 	- Class : collections of oblect and methods.
@@ -454,20 +455,3 @@ class test{
     }
 }
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
