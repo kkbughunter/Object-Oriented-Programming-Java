@@ -113,6 +113,34 @@
 
 
 # Unit 2
+## Abstract VS Interface
+```java
+// Abstract class example
+public abstract class Animal {
+   public void eat() {
+      System.out.println("Animal is eating");
+   }
+   public abstract void makeSound();
+}
+
+public class Dog extends Animal {
+   public void makeSound() {
+      System.out.println("Woof");
+   }
+}
+
+// Interface example
+public interface Jumpable {
+   public void jump();
+}
+
+public class Cat implements Jumpable {
+   public void jump() {
+      System.out.println("Cat is jumping");
+   }
+}
+
+```
 # find the O/p
 ``` java
 class c1{
