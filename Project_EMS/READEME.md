@@ -1,10 +1,11 @@
-```
 EmployeeManagementSystem
 |-- src
 |   |-- main
 |       |-- employeemanagementsystem
 |           |-- model
 |               |-- Employee.java
+|               |-- Manager.java
+|               |-- Developer.java
 |           |-- project
 |               |-- Project.java
 |               |-- JobAssign.java
@@ -12,6 +13,3 @@ EmployeeManagementSystem
 |-- target
 |-- .gitignore
 |-- README.md
-|-- LICENSE
-|-- pom.xml
-```
