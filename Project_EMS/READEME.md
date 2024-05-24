@@ -1,3 +1,4 @@
+```
 EmployeeManagementSystem
 |-- src
 |   |-- main
@@ -13,3 +14,4 @@ EmployeeManagementSystem
 |-- target
 |-- .gitignore
 |-- README.md
+```
